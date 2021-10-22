@@ -1,0 +1,150 @@
+
+.body{
+    margin:0;
+    font-family: Montserrat
+    Source Sans Pro;
+}
+
+.amazon_logo{
+
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 100px;
+   
+    
+   
+}
+
+.navbar_logo{
+    display: flex;
+    justify-content: center;
+    background-color:#23211f;
+    padding: 20px;
+}
+
+
+.headline_text{
+
+    display: flex;
+    justify-content:center;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+
+#color-1{
+
+    background-color: #565681;
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border:none
+
+}
+#color-2{
+
+    background-color: #8a5362;
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border:none
+
+}
+#color-3{
+
+    background-color: #23211f;
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border:none
+
+}
+
+
+
+.img-wrapper{
+    display: inline-block;
+
+}
+
+.watch_section{
+
+    width: 15%;
+    height: spx;
+    display: inline-block;
+    margin-right: 68px;
+    
+    
+}
+
+
+.timeHeart_button{
+
+    border-radius: 5px;
+    width: 60px;
+    height: 25px;
+    margin-right:8px ;
+    margin-bottom: 25px;
+    background-color: gainsboro;
+    border:none;
+    font-size: 10px;
+
+}
+
+
+.timer{
+
+    position: relative;
+    top: 130px;
+    left: 88px;
+
+
+}
+
+#clockTime{
+
+    color: white;
+}
+
+
+.number_rate
+{
+    position: relative;
+    top: 160px;
+    left: 105px;
+    width: 10%
+    
+  
+ 
+}
+#hbNumber
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+  letter-spacing: 2px;
+}
+#heartRate i
+{
+  color: red;
+  font-size: 40px;
+  animation: heartBeat .40s infinite alternate;
+}
+
+
+#Buy_now{
+    
+ 
+  border-radius: 5px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: rgb(209, 145, 26);
+  color: black;    
+}
+
+
+
